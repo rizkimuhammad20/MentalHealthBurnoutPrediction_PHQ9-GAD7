@@ -4,6 +4,7 @@ A machine learning project designed to predict the likelihood or risk of mental 
 
 ## 📊 Key Features
 * **Exploratory Data Analysis (EDA):** Visualized relationships between work conditions (e.g., working hours, stress levels, work-life balance) and burnout rates.
+* **Psychological Metrics:** Engineered features based on PHQ-9 (Patient Health Questionnaire for depression) and GAD-7 (Generalized Anxiety Disorder assessment) scores to quantify mental health states.
 * **Feature Engineering:** Crafted and transformed new meaningful variables from the existing dataset to capture deeper patterns and improve the predictive power of the model.
 * **Data Preprocessing:** Handled missing values, encoded categorical variables, and scaled numerical features for optimal model performance.
 * **Machine Learning Modeling:** Implemented a **Logistic Regression** model for efficient, robust, and interpretable classification.
